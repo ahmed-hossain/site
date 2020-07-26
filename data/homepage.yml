@@ -48,9 +48,9 @@ education:
   enable: true
   title: Education
   item:
-  - title: Bangladesh University of Engineering and Technology
-    year: 2018-present
-    academy: ''
+  - title: Bachelors of Science
+    year: 2018 - Presents
+    academy: Bangladesh University of Engineering and Technology
 service:
   enable: true
   title: Services
